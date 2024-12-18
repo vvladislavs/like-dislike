@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
- <head></head>
+<head></head>
 <body>
 <h2>Kādas ir iespējas ar JavaScript?</h2>
 
@@ -13,6 +13,16 @@
 <button onclick="like()">Man patīk!</button>
 <p> </p>
 <p> </p>
-<script> </script>
+
+<script>
+  function dislike() {
+    document.getElementById('myImage').src = 'png-klev-club-p-dizlaik-png-21.png';
+  }
+
+  function like() {
+    document.getElementById('myImage').src = 'like.png';
+  }
+</script>
+
 </body>
 </html>
