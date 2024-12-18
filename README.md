@@ -1,0 +1,1 @@
+Šis kods izveido divas pogas: viena, lai izteiktu "nepatīk" (mainītu attēlu), un otra — lai "patīk". JavaScript jāmaina attēls, nospiežot uz pogām, taču pats kods, kas veic šo darbību, vēl nav pievienots.
